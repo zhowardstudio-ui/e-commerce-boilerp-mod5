@@ -160,7 +160,7 @@ function getBooks() {
           originalPrice: 30,
           salePrice: null,
           rating: 4.5,
-        },
+        }
        ]);
       }, 1000);
    });
